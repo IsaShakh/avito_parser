@@ -1,6 +1,12 @@
 # avito_parser
 Simple parser for parsing ads from Avito.ru with Python(Selenium). 
 Created with Selenium/undetected_chromedriver. Will be further developed for parsing images and etc.
+In this case the ads was parsed based on the following filters:
+1. City - Krasnodar;
+2. Districts - Central, Zapadnyu, Prikubansky;
+3. Price - up to 35,000 rubles
+You can change them if you want to any other.
+
 
 ## Set up
 
