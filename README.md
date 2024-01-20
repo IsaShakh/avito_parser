@@ -12,4 +12,8 @@ You must also have the Google Chrome browser installed, any more or less recent 
 
 > python avito_parser.py
 
+## Result of script
+
+![изображение](https://github.com/IsaShakh/avito_parser/assets/57360844/98a6b482-8f70-41a9-9d48-0ca8a9162115)
+
 
